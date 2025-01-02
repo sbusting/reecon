@@ -35,8 +35,11 @@ The local minima around each peak is searched within a window [lambda-delta, lam
 If the local minima are equal to either window limit, a warning message is displayed using the war variable.
 
 These values are defined in the input.txt file as:
+
 `#Pr	Nd	Dy`
+
 `444	740	365`
+
 `17	50	15`
     
 When the graphical output is set, it plots the analyzed spectra.
