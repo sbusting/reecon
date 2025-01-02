@@ -1,0 +1,18 @@
+# Input file for "reecon.py"
+# version 01.1_beta
+#
+# Output path
+/home/sbusting/MEGA/MEGAsync/consulting/alkemio/results/espectrofotometria/resultados_finales_txt/ensayo_captura_01/analisis/
+# Output name
+Dy_1000_PEI
+
+# Spectrum file path
+/home/sbusting/MEGA/MEGAsync/consulting/alkemio/results/espectrofotometria/resultados_finales_txt/ensayo_captura_01/Dy 1000 PEIplus.txt
+# Background file path
+/home/sbusting/MEGA/MEGAsync/consulting/alkemio/results/espectrofotometria/resultados_finales_txt/ensayo_captura_01/ensayos_12dic2024/PEI_H2O.txt
+
+# Wavelength of the peaks to be analyzed and their corresponding width of the analysis window, in nm
+#Pr	Nd	Dy
+444	740	365
+17	50	15
+
